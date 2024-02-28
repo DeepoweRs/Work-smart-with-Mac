@@ -1,4 +1,4 @@
-Hotkeys that I use:
+# Hotkeys that I use:
 
 Cmd + d: Selects every single repetition of the word you selected.
 
@@ -14,13 +14,17 @@ Ctrl + t: Creates a new window in web browsers.
 
 Ctrl + Shif + t: Restores deleted windows in a browser.
 
-Hotkeys that want to learn:
+-------------------------------------
+
+# Hotkeys that want to learn:
 
 Cmd + n
 
 Shift + Opt + up arrow
 
-App's and extentions that I use and recommend for smarter work:
+-------------------------------------
+
+# App's and extentions that I use and recommend for smarter work:
 
 
 Caffeine: It makes your Mac awake. The Mac not going into the sleep mode throughout the duration of the time of your choice.
